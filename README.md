@@ -50,7 +50,10 @@ docker-compose up
 ```
 ---
 ### Further information
-[nginx](http://nginx.org/en/docs/ngx_core_module.html)
+[ng-inx](http://nginx.org/en/docs/ngx_core_module.html)
 
-[Docker](https://www.docker.com/get-started)
+[docker containers](https://www.docker.com/get-started)
+
+[docker compose](https://docs.docker.com/compose/reference/help/)
+
 ---
