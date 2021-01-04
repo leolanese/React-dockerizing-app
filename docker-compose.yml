@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  ui-prod:
+    container_name: ui-prod
+    build:
+      context: .
+      dockerfile: DockerFile.prod
+    ports:
+      - "8080:80"
