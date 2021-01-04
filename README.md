@@ -48,3 +48,9 @@ services:
 ```js
 docker-compose up
 ```
+---
+### Further information
+[nginx](http://nginx.org/en/docs/ngx_core_module.html)
+
+[Docker](https://www.docker.com/get-started)
+---
